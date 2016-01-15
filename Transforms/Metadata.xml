@@ -1,0 +1,3 @@
+<metadata>
+	<attr path="/api/package[@name='Com.Nineoldandroids.Animation']/class[@name='AnimatorSet']/method[@name='SetDuration']" name="managedReturn">Com.Nineoldandroids.Animation.Animator</attr>
+</metadata>

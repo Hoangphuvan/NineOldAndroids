@@ -1,0 +1,5 @@
+/Users/ricardo/simplest/repositorio/trunk/mobile/MeusPedidosMobile/NineOldAndroids/obj/Debug/NineOldAndroids.Jars.nineoldandroids-2.4.0.jar
+/Users/ricardo/simplest/repositorio/trunk/mobile/MeusPedidosMobile/NineOldAndroids/bin/Debug/NineOldAndroids.dll.mdb
+/Users/ricardo/simplest/repositorio/trunk/mobile/MeusPedidosMobile/NineOldAndroids/bin/Debug/NineOldAndroids.dll
+/Users/ricardo/simplest/repositorio/trunk/mobile/MeusPedidosMobile/NineOldAndroids/obj/Debug/NineOldAndroids.dll
+/Users/ricardo/simplest/repositorio/trunk/mobile/MeusPedidosMobile/NineOldAndroids/obj/Debug/NineOldAndroids.dll.mdb
